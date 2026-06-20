@@ -16,17 +16,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VertexForgeDev&theme=radical" />
-</p>
-
----
-
-## SYSTEM PROFILE
+## SYSTEM BOOT SEQUENCE
 
 ```text
-NAME      VertexForgeDev
-ROLE      Developer / AI Systems Builder
-DOMAIN    Web Apps • AI Tools • Automation • UI Systems
-STATUS    Active Development
-FOCUS     Scalable Digital Systems & Experimental Interfaces
+> boot sequence complete
+> ai systems initialized
+> web engine running
+> automation layer synced
+> environment stable
+> awaiting commands...
