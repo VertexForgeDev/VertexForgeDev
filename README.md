@@ -6,16 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=1000&lines=VertexForgeDev;AI+Systems+%7C+Web+Engineering+%7C+Automation+Layer;Building+Experimental+Digital+Tools" />
 </p>
 
-## SYSTEM BOOT SEQUENCE
-
-```text
-> boot sequence complete
-> ai systems initialized
-> web engine running
-> automation layer synced
-> environment stable
-> awaiting commands...
-
 ---
 
 <p align="center">
@@ -25,6 +15,16 @@
 </p>
 
 ---
+
+## SYSTEM BOOT SEQUENCE
+
+```text
+> boot sequence complete
+> ai systems initialized
+> web engine running
+> automation layer synced
+> environment stable
+> awaiting commands...
 
 
 
