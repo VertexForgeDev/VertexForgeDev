@@ -1,8 +1,10 @@
-<div align="center" style="font-family: monospace; color: #A855F7; font-size: 24px; font-weight: bold; width: 100%;">
-  <marquee scrollamount="8" direction="left">
-    VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS &nbsp; | &nbsp; WEB ENGINEERING &nbsp; | &nbsp; AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS &nbsp; | &nbsp; VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS &nbsp; | &nbsp; WEB ENGINEERING &nbsp; | &nbsp; AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS
-  </marquee>
-</div>
+<!-- █████████████████████████████████████████████ -->
+<!-- ⚡ VERTEXFORGEDEV // PROFILE SYSTEM ⚡ -->
+<!-- █████████████████████████████████████████████ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=1000&lines=VertexForgeDev;AI+Systems+%7C+Web+Engineering+%7C+Automation+Layer;Building+Experimental+Digital+Tools&direction=left" />
+</p>
 
 ---
 
