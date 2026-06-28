@@ -2,9 +2,10 @@
 <!-- ⚡ VERTEXFORGEDEV // PROFILE SYSTEM ⚡ -->
 <!-- █████████████████████████████████████████████ -->
 
-<div style="width: 100%; overflow: hidden; white-space: nowrap; font-family: monospace; color: #A855F7; font-size: 24px; font-weight: bold; padding: 20px 0;">
+<div align="center" style="font-family: 'Fira Code', monospace; color: #A855F7; font-size: 28px; font-weight: bold; overflow: hidden; white-space: nowrap; height: 50px;">
   <div style="display: inline-block; animation: scroll-left 15s linear infinite;">
-    VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS &nbsp; | &nbsp; WEB ENGINEERING &nbsp; | &nbsp; AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS &nbsp; | &nbsp; VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS &nbsp; | &nbsp; WEB ENGINEERING &nbsp; | &nbsp; AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS
+    VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS | WEB ENGINEERING | AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS &nbsp; | &nbsp; 
+    VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS | WEB ENGINEERING | AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS
   </div>
 </div>
 
