@@ -1,5 +1,9 @@
+<!-- █████████████████████████████████████████████ -->
+<!-- ⚡ VERTEXFORGEDEV // PROFILE SYSTEM ⚡ -->
+<!-- █████████████████████████████████████████████ -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=0&color=A855F7&center=true&vCenter=true&width=1000&lines=VertexForgeDev+|+AI+Systems+|+Web+Engineering+|+Automation+Layer+|+Building+Experimental+Digital+Tools&mode=scrolling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=0&color=A855F7&center=true&vCenter=true&width=1000&lines=+++++VertexForgeDev+|+AI+Systems+|+Web+Engineering+|+Automation+Layer+|+Building+Experimental+Digital+Tools+++++&mode=scrolling" />
 </p>
 
 ---
