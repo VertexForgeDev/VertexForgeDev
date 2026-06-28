@@ -1,20 +1,8 @@
-<!-- █████████████████████████████████████████████ -->
-<!-- ⚡ VERTEXFORGEDEV // PROFILE SYSTEM ⚡ -->
-<!-- █████████████████████████████████████████████ -->
-
-<div align="center" style="font-family: 'Fira Code', monospace; color: #A855F7; font-size: 28px; font-weight: bold; overflow: hidden; white-space: nowrap; height: 50px;">
-  <div style="display: inline-block; animation: scroll-left 15s linear infinite;">
-    VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS | WEB ENGINEERING | AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS &nbsp; | &nbsp; 
-    VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS | WEB ENGINEERING | AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS
-  </div>
+<div align="center" style="font-family: monospace; color: #A855F7; font-size: 24px; font-weight: bold; width: 100%;">
+  <marquee scrollamount="8" direction="left">
+    VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS &nbsp; | &nbsp; WEB ENGINEERING &nbsp; | &nbsp; AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS &nbsp; | &nbsp; VERTEXFORGEDEV &nbsp; | &nbsp; AI SYSTEMS &nbsp; | &nbsp; WEB ENGINEERING &nbsp; | &nbsp; AUTOMATION LAYER &nbsp; | &nbsp; BUILDING EXPERIMENTAL DIGITAL TOOLS
+  </marquee>
 </div>
-
-<style>
-  @keyframes scroll-left {
-    0% { transform: translateX(0%); }
-    100% { transform: translateX(-50%); }
-  }
-</style>
 
 ---
 
