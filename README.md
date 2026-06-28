@@ -3,7 +3,10 @@
 <!-- █████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=1000&lines=VertexForgeDev;AI+Systems+%7C+Web+Engineering+%7C+Automation+Layer;Building+Experimental+Digital+Tools" />
+  <img
+    style="transform: scaleX(-1);"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=1000&lines=VertexForgeDev;AI+Systems+%7C+Web+Engineering+%7C+Automation+Layer;Building+Experimental+Digital+Tools"
+  />
 </p>
 
 ---
