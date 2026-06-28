@@ -1,20 +1,33 @@
-<!-- █████████████████████████████████████████████ -->
-<!-- ⚡ VERTEXFORGEDEV // PROFILE SYSTEM ⚡ -->
-<!-- █████████████████████████████████████████████ -->
+<!-- Container to clip the overflow -->
+<div class="scroll-container">
+  <div class="scroll-text">
+    VERTEXFORGEDEV | AI SYSTEMS | WEB ENGINEERING | AUTOMATION LAYER | BUILDING EXPERIMENTAL DIGITAL TOOLS
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=1000&lines=VertexForgeDev;AI+Systems+%7C+Web+Engineering+%7C+Automation+Layer;Building+Experimental+Digital+Tools" />
-</p>
+<style>
+  .scroll-container {
+    width: 100%;
+    overflow: hidden;
+    background: transparent;
+    padding: 10px 0;
+  }
 
----
+  .scroll-text {
+    white-space: nowrap;
+    display: inline-block;
+    animation: scroll-left 15s linear infinite;
+    font-family: 'Fira Code', monospace;
+    color: #A855F7;
+    font-size: 20px;
+    font-weight: bold;
+  }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-A855F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20WEB%20SYSTEMS-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BUILD-EXPERIMENTAL%20ENGINE-9333EA?style=for-the-badge" />
-</p>
-
----
+  @keyframes scroll-left {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+</style>
 
 
 
