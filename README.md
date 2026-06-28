@@ -2,9 +2,11 @@
 <!-- ⚡ VERTEXFORGEDEV // PROFILE SYSTEM ⚡ -->
 <!-- █████████████████████████████████████████████ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=1000&lines=VertexForgeDev;AI+Systems+%7C+Web+Engineering+%7C+Automation+Layer;Building+Experimental+Digital+Tools&direction=reverse" />
-</p>
+<div align="center" style="font-family: 'Fira Code', monospace; color: #A855F7; font-size: 28px; font-weight: bold; width: 100%;">
+  <marquee scrollamount="6" direction="left">
+    VertexForgeDev &nbsp; | &nbsp; AI Systems | Web Engineering | Automation Layer &nbsp; | &nbsp; Building Experimental Digital Tools
+  </marquee>
+</div>
 
 ---
 
