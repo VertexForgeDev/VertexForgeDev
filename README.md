@@ -2,18 +2,11 @@
 <!-- ⚡ VERTEXFORGEDEV // PROFILE SYSTEM ⚡ -->
 <!-- █████████████████████████████████████████████ -->
 
-<div style="width: 100%; overflow: hidden; background: transparent; padding: 10px 0;">
-  <div style="display: inline-block; white-space: nowrap; animation: scroll 15s linear infinite; font-family: 'Fira Code', monospace; color: #A855F7; font-size: 24px; font-weight: bold; padding-left: 100%;">
-    VertexForgeDev | AI Systems | Web Engineering | Automation Layer | Building Experimental Digital Tools
-  </div>
+<div align="center" style="width: 100%; display: block;">
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: monospace; color: #A855F7; font-size: 24px; font-weight: bold; width: 800px;">
+    VertexForgeDev &nbsp; | &nbsp; AI Systems &nbsp; | &nbsp; Web Engineering &nbsp; | &nbsp; Automation Layer &nbsp; | &nbsp; Building Experimental Digital Tools
+  </marquee>
 </div>
-
-<style>
-  @keyframes scroll {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
 
 ---
 
