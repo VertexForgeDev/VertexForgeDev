@@ -15,4 +15,4 @@
 </p>
 
 ---
-Built with ❤️
+<center>Built with ❤️</center>
