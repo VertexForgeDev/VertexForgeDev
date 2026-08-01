@@ -25,3 +25,4 @@
 
 A collection of modern web applications
 https://wotl.vercel.app/
+https://waveradio.vercel.app/
