@@ -28,7 +28,7 @@
 
   Daily scripture reading platform
 
-- 🌊 [WaveRadio](https://waveradio.vercel.app/)  
+- 📻 [WaveRadio](https://waveradio.vercel.app/)  
 
   Modern internet radio experience
 
