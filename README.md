@@ -22,13 +22,20 @@
 <p align="center">Built with ❤️</p>
 
 
-## 🌐 Live Applications
+🌐 Live Applications
 
 - 📖 [Word of the Lord](https://wotl.vercel.app/)  
+
   Daily scripture reading platform
 
 - 🌊 [WaveRadio](https://waveradio.vercel.app/)  
+
   Modern internet radio experience
 
 - ⚡ [Speed Meter Check](https://speed-meter-check.vercel.app/)  
+
   Network speed testing and performance monitoring
+
+- 🌍 [Geo Nexus Map](https://geo-nexus-map.vercel.app/)  
+
+  Interactive geospatial mapping and location intelligence platform
