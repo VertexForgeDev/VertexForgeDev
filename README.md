@@ -23,6 +23,10 @@
 
 🚀 VertexForgeDev Projects
 
-A collection of modern web applications
+## 🌐 Live Projects
+
+📖 **Word of the Lord**  
 https://wotl.vercel.app/
+
+🌊 **WaveRadio**  
 https://waveradio.vercel.app/
