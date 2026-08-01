@@ -22,7 +22,7 @@
 <p align="center">Built with ❤️</p>
 
 
-🌐 Live Applications
+## 🌐 Live Applications
 
 - 📖 [Word of the Lord](https://wotl.vercel.app/)  
 
@@ -39,3 +39,7 @@
 - 🌍 [Geo Nexus Map](https://geo-nexus-map.vercel.app/)  
 
   Interactive geospatial mapping and location intelligence platform
+
+- 🎵 [SonicGrab](https://sonic-grab.vercel.app/)  
+
+  Media extraction and audio processing utility
