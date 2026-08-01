@@ -34,15 +34,15 @@
 
 - ⚡ [Speed Meter Check](https://speed-meter-check.vercel.app/)  
 
-  Network speed testing and performance monitoring
+  Internet speed testing
 
 - 🌍 [Geo Nexus Map](https://geo-nexus-map.vercel.app/)  
 
-  Interactive geospatial mapping and location intelligence platform
+  Interactive geospatial mapping 
 
 - 🎵 [SonicGrab](https://sonic-grab.vercel.app/)  
 
-  Media extraction and audio processing utility
+  Media extraction from youtube
 
 - 🗺️ [TimeMapX](https://time-map-x.vercel.app/)  
 
@@ -50,4 +50,4 @@
 
 - ☁️ [Sky Forecast Radar](https://sky-forecast-radar.vercel.app/)  
 
-  Real-time weather forecast and radar visualization platform
+  Real-time weather forecast
