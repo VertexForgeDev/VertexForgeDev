@@ -21,7 +21,6 @@
 
 <p align="center">Built with ❤️</p>
 
-🚀 VertexForgeDev Projects
 
 ## 🌐 Live Projects
 
