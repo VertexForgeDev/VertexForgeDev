@@ -23,5 +23,5 @@
 
 🚀 VertexForgeDev Projects
 
-A collection of modern web applications, dashboards and API-powered tools.
+A collection of modern web applications
 https://wotl.vercel.app/
