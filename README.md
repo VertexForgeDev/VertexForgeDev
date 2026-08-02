@@ -25,29 +25,22 @@
 ## 🌐 Live Applications
 
 - 📖 [Word of the Lord](https://wotl.vercel.app/)  
-
   Daily scripture reading platform
 
 - 📻 [WaveRadio](https://waveradio.vercel.app/)  
-
   Modern internet radio experience
 
-- ⚡ [Speed Meter Check](https://speed-meter-check.vercel.app/)  
+- 🎵 [SonicGrab](https://sonic-grab.vercel.app/)  
+  Media extraction from YouTube
 
+- ⚡ [Speed Meter Check](https://speed-meter-check.vercel.app/)  
   Internet speed testing
 
+- ☁️ [Sky Forecast Radar](https://sky-forecast-radar.vercel.app/)  
+  Real-time weather forecast
+
 - 🌍 [Geo Nexus Map](https://geo-nexus-map.vercel.app/)  
-
-  Interactive geospatial mapping 
-
-- 🎵 [SonicGrab](https://sonic-grab.vercel.app/)  
-
-  Media extraction from youtube
+  Interactive geospatial mapping
 
 - 🗺️ [TimeMapX](https://time-map-x.vercel.app/)  
-
   Interactive historical maps explorer with timeline-based geographic discovery
-
-- ☁️ [Sky Forecast Radar](https://sky-forecast-radar.vercel.app/)  
-
-  Real-time weather forecast
