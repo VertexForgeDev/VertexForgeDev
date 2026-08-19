@@ -22,8 +22,7 @@
 <p align="center">Built with ❤️</p>
 
 <p align="center">
-  <script
-    type="text/javascript"
+  <script type="text/javascript"
     src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
     data-name="bmc-button"
     data-slug="vertexforgedev"
