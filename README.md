@@ -53,5 +53,5 @@
 - 🗺️ [TimeMapX](https://time-map-x.vercel.app/)  
   Interactive historical maps explorer with timeline-based geographic discovery
 
-- 🌌 [GalaxiaX](https://github.com/VertexForgeDev/GalaxiaX)  
+- 🌌 [GalaxiaX](https://galaxia-x-five.vercel.app/)  
   Futuristic 3D Solar System explorer powered by real astronomy data. Discover planets, moons, asteroids, spacecraft, and celestial objects through an interactive WebGL experience.
