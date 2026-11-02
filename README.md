@@ -52,3 +52,6 @@
 
 - 🗺️ [TimeMapX](https://time-map-x.vercel.app/)  
   Interactive historical maps explorer with timeline-based geographic discovery
+
+- 🛰️ [OrbitalX](https://github.com/VertexForgeDev/OrbitalX)  
+  Global space intelligence dashboard for launches, missions, astronauts, spacecraft, agencies, and orbital data
